@@ -13,6 +13,6 @@ The doner recieves the transaction Mail within seconds after successful payment<
 The website is FULL RESPONSIVE <br>
 It can operate on any device <br>
 
-Live Project Link : https://shahu-trust.herokuapp.com/<br>
+Live Project Link : https://spread-smiles.herokuapp.com/
 
 
